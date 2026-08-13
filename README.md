@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Full-Stack%20%26%20AI%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=none" width="100%"/>
 
 </div>
 
@@ -45,5 +45,6 @@
 </p>
 
 ---
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
 </div>
