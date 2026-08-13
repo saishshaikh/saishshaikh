@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,15,30&height=130&section=header&text=Saish%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=130&section=header&text=Saish%20Shaikh&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
 </div>
 
 <p align="center">
@@ -12,11 +12,24 @@
 ---
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%92%BB;%F0%9F%9A%80+Building+scalable+web+apps+%26+LLM+pipelines;%E2%98%95+Code+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" /></a>
+  ⚡ Full-Stack Developer & AI Enthusiast 💻 | Building scalable web apps & LLM pipelines 🚀 | Code • Build • Repeat ☕
 </p>
+
 ---
 
-<h3 align="center">📊Activity</h3>
+<h3 align="center">🎨 Tech Arsenal</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,docker,python,redis,git&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=%E2%9A%A1+LangChain+%26+Advanced+LLMs;%E2%9A%A1+RAG+Pipelines+%26+Vector+DB;%E2%9A%A1+Full-Stack+Web+Architecture" alt="Tech Highlights" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=react-dark&bg_color=0d1117&hide_border=true&color=00f0ff&line=00f0ff&point=ff007f&area=true" width="95%"/>
@@ -25,5 +38,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,15,30&height=80&section=footer&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=80&section=footer&animation=none" width="100%"/>
 </div>
