@@ -47,7 +47,6 @@
 ---
 
 <div align="center">
-  <b>💡 "Code is poetry, and I'm writing my story one commit at a time."</b>
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
 </div>
