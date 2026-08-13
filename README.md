@@ -59,30 +59,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saishshaikh/saishshaikh/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Extra Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/saishshaikh?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&config.animations=1&theme=tokyonight-dark" />
-</p>
-
----
-
 ## 🧠 Skill Proficiency
 
 <p align="center">
