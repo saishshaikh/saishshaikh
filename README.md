@@ -20,11 +20,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Full-Stack+MERN+Developer;Building+Modern+Web+Applications;Exploring+AI+%7C+LLMs+%7C+RAG;Learning+System+Design+%7C+Microservices" />
 </p>
 
-- 💻 Full-Stack **MERN** developer building real-world projects
-- 🤖 Exploring **LLMs, RAG, LangChain & LangGraph**
-- ⚙️ Learning **System Design, Microservices, Docker & Redis**
-- 🗄️ Working with **MongoDB, SQL & Vector Databases**
-- 🚀 Philosophy: **Learn → Build → Break → Fix → Repeat**
+- 💻 Full-Stack **MERN** developer
+- 🤖 Exploring **LLMs, RAG & LangChain**
+- ⚙️ Learning **System Design, Microservices & Docker**
+- 🚀 **Learn → Build → Break → Fix → Repeat**
 
 ---
 
@@ -65,8 +64,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saishshaikh/saishshaikh/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </p>
-
-> ⚙️ Ye animated snake tabhi dikhega jab tu apne repo mein GitHub Action (`Platane/snk`) set karega jo har din contribution graph se snake generate karta hai. Chahe to main tujhe uska workflow file bhi bana kar deta hoon.
 
 ---
 
