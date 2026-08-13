@@ -14,19 +14,6 @@
 <p align="center">
   ⚡ Full-Stack Developer & AI Enthusiast 💻 | Building scalable web apps & LLM pipelines 🚀 | Code • Build • Repeat ☕
 </p>
-
----
-
-<h3 align="center">🎨 Tech Arsenal</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,docker,python,redis,git&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=%E2%9A%A1+LangChain+%26+Advanced+LLMs;%E2%9A%A1+RAG+Pipelines+%26+Vector+DB;%E2%9A%A1+Full-Stack+Web+Architecture" alt="Tech Highlights" />
-</p>
-
 ---
 
 <h3 align="center">📊 GitHub Activity</h3>
@@ -36,7 +23,6 @@
 </p>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=80&section=footer&animation=none" width="100%"/>
 </div>
