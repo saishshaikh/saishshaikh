@@ -1,29 +1,17 @@
-# 👋 Hi, I'm Saish
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineer+%7C+Full-Stack+MERN+Developer;Building+Modern+%26+Scalable+Web+Applications;Exploring+AI+%7C+LLMs+%7C+RAG;Learning+System+Design+%7C+Microservices;Always+Learning.+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>💻 Full-Stack Developer</b> &nbsp;•&nbsp;
-  <b>🤖 AI Enthusiast</b> &nbsp;•&nbsp;
-  <b>⚙️ Backend & System Design</b>
-</p>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Saish+Shaikh" alt="Saish Shaikh" />
+</h1>
 
 ## 🧑‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Full-Stack+MERN+Developer;Building+Modern+Web+Applications;Exploring+AI+%7C+LLMs+%7C+RAG;Learning+System+Design+%7C+Microservices" />
+</p>
 
-I'm a **Computer Engineer & Full-Stack MERN Developer** who loves building real-world applications and scalable backend systems.
-
-🚀 Building **MERN stack projects**
+💻 Full-Stack MERN Developer building real-world projects
 🤖 Exploring **LLMs, RAG, LangChain & LangGraph**
-⚙️ Learning **System Design & Microservices**
-🐳 Working with **Docker & Redis**
-🗄️ Building with **SQL, MongoDB & Vector Databases**
-📚 Learning something new every day
-
----
+⚙️ Learning **System Design, Microservices, Docker & Redis**
+🗄️ Working with **MongoDB, SQL & Vector Databases**
+🚀 **Learn • Build • Improve**
 
 ## 🛠️ Tech Stack
 
@@ -41,12 +29,11 @@ I'm a **Computer Engineer & Full-Stack MERN Developer** who loves building real-
 </p>
 
 ---
-
 ## 🚀 What I'm Building
 
 <p align="center">
 
-**MERN Applications** → **Scalable Backends** → **Microservices** → **AI-Powered Systems**
+**MERN Applications** → **Scalable Backends**  → **AI-Powered Systems**
 
 </p>
 
@@ -62,7 +49,6 @@ I'm a **Computer Engineer & Full-Stack MERN Developer** who loves building real-
 `System Design` `Microservices` `Docker` `Redis` `RAG` `LLMs` `LangChain` `LangGraph` `Vector Databases`
 
 ---
-
 <p align="center">
   <b>💡 Learn → Build → Break → Fix → Repeat 🚀</b>
 </p>
