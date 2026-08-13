@@ -20,11 +20,7 @@
 <h3 align="center">🎨 Tech Arsenal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,redis,python,vscode&perline=16" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=LangChain+%7C+RAG+Pipelines+%7C+Advanced+LLMs+%7C+Vector+Databases" alt="Tech Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Node.js+%7C+Express+%7C+MongoDB+%7C+MySQL+%7C+Python+%7C+Docker;LangChain+%7C+RAG+Pipelines+%7C+Advanced+LLMs+%7C+Vector+Databases" alt="Tech Stack" />
 </p>
 
 ---
