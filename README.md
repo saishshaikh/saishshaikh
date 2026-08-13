@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeofday&height=120&section=header&text=Saish%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=130&section=header&text=Saish%20Shaikh&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saishshaikh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saishshaikh2323@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/saishshaikh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=ff69b4&label=VISITORS" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=00f0ff&label=VISITORS" alt="views"/>
 </p>
 
 ---
@@ -35,11 +35,11 @@
 <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=tokyo-night&bg_color=1a1b26&hide_border=true&color=bb9af7&line=7aa2f7&point=f7768e&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=react-dark&bg_color=0d1117&hide_border=true&color=00f0ff&line=00f0ff&point=ff007f&area=true" width="95%"/>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeofday&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=80&section=footer&animation=none" width="100%"/>
 </div>
