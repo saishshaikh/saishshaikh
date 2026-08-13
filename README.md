@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=130&section=header&text=Saish%20Shaikh&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,15,30&height=130&section=header&text=Saish%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=none" width="100%"/>
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  ⚡ Full-Stack Developer & AI Enthusiast 💻 | Building scalable web apps & LLM pipelines 🚀 | Code • Build • Repeat ☕
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=00B4D8,FF007F,FFD700,00FFCC,9933FF,FF5533,33CCFF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%92%BB;%F0%9F%9A%80+Building+scalable+web+apps+%26+LLM+pipelines;%E2%98%95+Code+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -24,7 +24,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=%E2%9A%A1+LangChain+%26+Advanced+LLMs;%E2%9A%A1+RAG+Pipelines+%26+Vector+DB;%E2%9A%A1+Full-Stack+Web+Architecture" alt="Tech Highlights" />
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Pipelines-%236C47FF.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-Pinecone-%2300B4D8.svg?style=for-the-badge"/>
 </p>
 
 ---
@@ -38,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,12,18&height=80&section=footer&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,15,30&height=80&section=footer&animation=none" width="100%"/>
 </div>
