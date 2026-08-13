@@ -24,10 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Pipelines-%236C47FF.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-%2300B4D8.svg?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=LangChain+%7C+RAG+Pipelines+%7C+Advanced+LLMs+%7C+Vector+Databases" alt="Tech Highlights" />
 </p>
 
 ---
