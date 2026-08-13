@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeofday&height=130&section=header&text=SAISH%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Innovator&descSize=16&descColor=ffd700" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeofday&height=120&section=header&text=Saish%20Shaikh&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%"/>
 </div>
 
 <p align="center">
@@ -11,11 +11,8 @@
 
 ---
 
-<h3 align="center">🌈 About Me</h3>
-
 <p align="center">
-  <b>Computer Engineer</b> crafting scalable web architectures & bridging the gap with <b>AI/LLMs</b>.<br>
-  <i>✨ "Writing clean code, solving complex problems, and building the future."</i>
+  ⚡ Full-Stack Developer & AI Enthusiast 💻 | Building scalable web apps & LLM pipelines 🚀 | Code • Build • Repeat ☕
 </p>
 
 ---
@@ -44,6 +41,5 @@
 ---
 
 <div align="center">
-  <p><b>🔥 Code. Build. Innovate. Repeat. 🔥</b></p>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeofday&height=80&section=footer" width="100%"/>
 </div>
