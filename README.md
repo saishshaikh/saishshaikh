@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=FF007F&center=true&vCenter=true&width=650&lines=%F0%9F%94%B9+LangChain+%26+Advanced+LLM+Architectures;%F0%9F%94%B9+RAG+Pipelines+%26+Vector+Databases;%F0%9F%94%B9+Modern+Full-Stack+Web+Development" alt="Tech Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=650&lines=%E2%9A%A1+LangChain+%26+Advanced+LLMs;%E2%9A%A1+RAG+Pipelines+%26+Vector+DB;%E2%9A%A1+Full-Stack+Web+Architecture" alt="Tech Highlights" />
 </p>
 
 ---
