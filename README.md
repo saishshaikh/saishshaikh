@@ -56,22 +56,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=react-dark&bg_color=0d1117&hide_border=true&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="95%"/>
 </p>
-
 ---
 
-<h3 align="center">🎯 Currently Exploring</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7"/>
-  <img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7"/>
-  <img src="https://img.shields.io/badge/Cloud%20(AWS)-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7"/>
-</p>
-
----
-
-<div align="center">
-  <b>💡 "Code is poetry, and I'm writing my story one commit at a time."</b>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
 </div>
