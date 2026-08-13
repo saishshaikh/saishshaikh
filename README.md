@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saish Shaikh
 
-### 💻 Full-Stack MERN Developer | Backend Developer | AI Enthusiast | DevOps Learner 🚀
+### 💻 Full-Stack MERN Developer | Backend Developer | AI Enthusiast
 
 I’m a passionate developer who enjoys building scalable web applications, backend systems, and AI-powered projects. I love turning ideas into real-world products and continuously learning modern technologies.
 
@@ -8,107 +8,41 @@ I’m a passionate developer who enjoys building scalable web applications, back
 
 ## 🧑‍💻 About Me
 
-* 🚀 Building full-stack applications with the **MERN Stack**
-* ⚙️ Developing scalable and efficient **backend systems**
-* 🐳 Learning **Docker, DevOps & cloud technologies**
-* 🤖 Exploring **AI & modern AI-powered applications**
-* 🧠 Learning **System Design & software architecture**
-* 💡 Turning ideas into practical projects
-* 🌱 Continuously improving my development skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Full-Stack+MERN+Developer;Building+Scalable+Backend+Applications;Exploring+AI%2C+RAG+%26+LLM+Applications;Learning+System+Design+%26+Microservices;Docker+%7C+Redis+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 <b>Full-Stack MERN Developer</b> &nbsp; • &nbsp;
+  🤖 <b>AI Enthusiast</b> &nbsp; • &nbsp;
+  ⚙️ <b>Backend Learner</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 What I Do
 
-### 💻 Frontend
+* 💻 Build **full-stack web applications** using the MERN stack
+* ⚙️ Develop **backend APIs and scalable application architectures**
+* 🧠 Explore **System Design, Microservices & distributed systems**
+* 🤖 Learn and build with **RAG, LangChain, LangGraph & Vector Databases**
+* 🐳 Exploring **Docker, Redis & DevOps**
+* 🚀 Turning ideas into real-world projects and continuously improving
 
-* HTML
-* CSS
-* JavaScript
-* React.js
+### 🧠 Currently Exploring
 
-### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,redis,nodejs,mongodb,react" />
+</p>
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
+<p align="center">
+  <b>System Design</b> •
+  <b>Microservices</b> •
+  <b>RAG</b> •
+  <b>LangChain</b> •
+  <b>LangGraph</b> •
+  <b>Vector Databases</b>
+</p>
 
-### 🗄️ Databases
+     
 
-* MongoDB
-* MySQL
-
-### 🧰 Tools & DevOps
-
-* Git & GitHub
-* Docker
-* Linux
-* Postman
-
-### 🤖 AI
-
-* AI APIs
-* Generative AI
-* AI-powered applications
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Full-Stack MERN Applications
-
-Building modern web applications using MongoDB, Express.js, React.js, and Node.js.
-
-### 🔹 Backend Engineering & APIs
-
-Developing secure, scalable REST APIs with authentication, database integration, and clean backend architecture.
-
-### 🔹 AI-Powered Projects
-
-Exploring ways to integrate AI into modern web applications and backend systems.
-
-🔗 Check out my repositories to explore my projects.
-
----
-
-## 📊 GitHub Stats
-
-<!-- Add your GitHub stats here -->
-
----
-
-## 📈 Most Used Languages
-
-<!-- Add your language statistics here -->
-
----
-
-## 🐳 Currently Learning
-
-```text
-Docker
-DevOps
-Backend Development
-System Design
-Artificial Intelligence
-Cloud Technologies
-```
-
----
-
-## 🎯 Goals
-
-* Build production-ready full-stack applications
-* Become stronger in backend architecture
-* Learn scalable system design
-* Improve DevOps & cloud skills
-* Build practical AI-powered applications
-
----
-
-## 🤝 Connect With Me
-
-I'm always interested in connecting with other developers, collaborating on projects, and discussing interesting ideas.
-
-⭐ Feel free to explore my repositories and connect with me!
