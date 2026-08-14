@@ -36,28 +36,6 @@
 
 ---
 
-<h3 align="center">📌 Pinned Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/saishshaikh/habit-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=habit-tracker&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
-  </a>
-  <a href="https://github.com/saishshaikh/e-learning-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=e-learning-platform&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/saishshaikh/ai-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=ai-chatbot&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
-  </a>
-  <a href="https://github.com/saishshaikh/mern-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=mern-ecommerce&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
-  </a>
-</p>
-
----
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
@@ -82,16 +60,6 @@
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saishshaikh&theme=radical&no-frame=true&row=1&column=7&margin-w=10&bg_color=0d1117"/>
-</p>
-
----
-
 <div align="center">
-  <b>💡 "Code is poetry, and I'm writing my story one commit at a time."</b>
-  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
 </div>
