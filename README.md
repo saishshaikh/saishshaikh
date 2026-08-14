@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=b19cd9&label=VISITORS" alt="views"/>
 </p>
 
----
-
 <h3 align="center">⚡ Saish Shaikh | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
@@ -21,15 +19,11 @@
   <i>Code • Build • Break • Fix • Repeat</i>
 </p>
 
----
-
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="75%"/>
 </p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
