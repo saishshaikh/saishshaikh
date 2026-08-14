@@ -13,11 +13,47 @@
 
 ---
 
-<h3 align="center">⚡ Developer | Full-Stack | AI Enthusiast</h3>
+<h3 align="center">⚡ Full-Stack Developer | MERN | AI Enthusiast</h3>
 
 <p align="center">
-  <b>MERN Stack Developer</b> building scalable web apps & exploring <b>LLMs, RAG & AI Agents</b><br>
+  <b>Saish Shaikh</b> — Computer Engineer & Full-Stack Developer<br>
+  Building scalable web apps & exploring <b>LLMs, RAG & AI Agents</b><br>
   <i>Code • Build • Break • Fix • Repeat</i>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Overview</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" height="155"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=radical&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&stroke=36BCF7" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" height="155"/>
+</p>
+
+---
+
+<h3 align="center">📌 Pinned Repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/saishshaikh/habit-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=habit-tracker&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
+  </a>
+  <a href="https://github.com/saishshaikh/e-learning-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=e-learning-platform&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/saishshaikh/ai-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=ai-chatbot&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
+  </a>
+  <a href="https://github.com/saishshaikh/mern-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saishshaikh&repo=mern-ecommerce&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
+  </a>
 </p>
 
 ---
@@ -45,6 +81,17 @@
 </p>
 
 ---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saishshaikh&theme=radical&no-frame=true&row=1&column=7&margin-w=10&bg_color=0d1117"/>
+</p>
+
+---
+
 <div align="center">
+  <b>💡 "Code is poetry, and I'm writing my story one commit at a time."</b>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
 </div>
