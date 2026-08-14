@@ -23,19 +23,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Overview</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=vue-dark&bg_color=0d1117&title_color=b19cd9&icon_color=b19cd9&text_color=ffffff&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=vue-dark&background=0d1117&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&stroke=b19cd9" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=vue-dark&bg_color=0d1117&title_color=b19cd9&text_color=ffffff" height="160"/>
-</p>
-
----
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
@@ -55,7 +42,7 @@
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="75%"/>
 </p>
 
 ---
