@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/saishshaikh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saishshaikh2323@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/saishshaikh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=36BCF7&label=VISITORS" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=b19cd9&label=VISITORS" alt="views"/>
 </p>
 
 ---
@@ -26,12 +26,12 @@
 <h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=radical&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&stroke=36BCF7" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=vue-dark&bg_color=0d1117&title_color=b19cd9&icon_color=b19cd9&text_color=ffffff&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=vue-dark&background=0d1117&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&stroke=b19cd9" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=vue-dark&bg_color=0d1117&title_color=b19cd9&text_color=ffffff" height="160"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=react-dark&bg_color=0d1117&hide_border=true&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="95%"/>
 </p>
 
 ---
