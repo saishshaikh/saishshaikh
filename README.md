@@ -23,22 +23,6 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,docker,python,redis,git,github,postgresql&perline=12" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-%236C47FF.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VectorDB-%2300B4D8.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logoColor=white"/>
-</p>
-
----
-
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
