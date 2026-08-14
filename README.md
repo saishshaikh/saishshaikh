@@ -13,10 +13,10 @@
 
 ---
 
-<h3 align="center">⚡ Full-Stack Developer | MERN | AI Enthusiast</h3>
+<h3 align="center">⚡ Saish Shaikh | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <b>Saish Shaikh</b> — Computer Engineer & Full-Stack Developer<br>
+  <b>Computer Engineer</b> & <b>MERN Stack Developer</b><br>
   Building scalable web apps & exploring <b>LLMs, RAG & AI Agents</b><br>
   <i>Code • Build • Break • Fix • Repeat</i>
 </p>
@@ -26,17 +26,17 @@
 <h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=radical&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&stroke=36BCF7" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishshaikh&hide_border=true&theme=radical&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&stroke=36BCF7" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishshaikh&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=36BCF7&text_color=ffffff" height="160"/>
 </p>
 
 ---
 
-<h3 align="center">📌 Pinned Repositories</h3>
+<h3 align="center">📌 Pinned Projects</h3>
 
 <p align="center">
   <a href="https://github.com/saishshaikh/habit-tracker">
@@ -82,7 +82,7 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saishshaikh&theme=radical&no-frame=true&row=1&column=7&margin-w=10&bg_color=0d1117"/>
