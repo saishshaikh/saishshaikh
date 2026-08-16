@@ -5,13 +5,12 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saishshaikh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saishshaikh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saishshaikh2323@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/saishshaikh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=saishshaikh&style=for-the-badge&color=b19cd9&label=VISITORS" alt="views"/>
 </p>
 
-<h3 align="center">⚡ Saish Shaikh | Full-Stack Mern-Stack Developer | AI Enthusiast</h3>
+<h3 align="center">⚡ Saish Shaikh | Full-Stack MERN Developer | AI Enthusiast</h3>
 
 <p align="center">
   <b>Computer Engineer</b> & <b>MERN/Full Stack Developer</b><br>
