@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/saishshaikh/saishshaikh/main/assets/black-bg.svg" width="100%" height="200%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 1;" />
 </div>
 
-<!-- UPAR WALI WAVE - SKY BLUE & ANIMATED -->
+<!-- UPAR WALI WAVE - SKY BLUE & STRONG ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&animation=wave" width="100%"/>
 </div>
 
 <!-- CONTENT KA BOX (SKY BLUE THEME) -->
@@ -39,7 +39,7 @@
 
 </div>
 
-<!-- NICHE WALI WAVE - SKY BLUE & ANIMATED -->
+<!-- NICHE WALI WAVE - SKY BLUE & STRONG ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer&animation=wave" width="100%"/>
 </div>
