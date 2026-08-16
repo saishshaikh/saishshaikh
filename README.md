@@ -1,15 +1,9 @@
-<!-- PURO BACKGROUND KO BLACK KARNE KI TRICK (GitHub par 100% kaam karta hai) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saishshaikh/saishshaikh/main/assets/black-bg.svg" width="100%" height="200%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 1;" />
-</div>
-
-<!-- UPAR WALI WAVE - SKY BLUE & STRONG ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=150&section=header&animation=wave" width="100%"/>
 </div>
 
-<!-- CONTENT KA BOX (SKY BLUE THEME) -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #00BFFF; display: inline-block; width: 95%; position: relative; box-shadow: 0 0 15px rgba(0, 191, 255, 0.3);">
+<!-- CONTENT KA BOX (SKY BLUE THEME) - GitHub par support karne wala version -->
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #00BFFF; display: inline-block; width: 95%; box-shadow: 0 0 15px rgba(0, 191, 255, 0.3);">
 
   <p align="center">
     <a href="https://www.linkedin.com/in/saishshaikh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -39,7 +33,6 @@
 
 </div>
 
-<!-- NICHE WALI WAVE - SKY BLUE & STRONG ANIMATION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer&animation=wave" width="100%"/>
 </div>
