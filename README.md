@@ -30,16 +30,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="100%"/>
   </p>
 
-  <!-- CONTRIBUTION CHART (PURPLE) -->
-  <p align="center">
-    <img src="https://ghchart.rshah.org/b19cd9/saishshaikh" width="90%" alt="GitHub Contributions Chart"/>
-  </p>
-
-  <!-- YEARLY STATS (Add kiya gaya hai) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=b19cd9&icon_color=b19cd9&text_color=d8b4e2" width="75%" alt="GitHub Yearly Stats"/>
-  </p>
-
+  
   <!-- BADGES (PURPLE) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Total%20Contributions-382-b19cd9?style=for-the-badge&logoColor=white"/>
