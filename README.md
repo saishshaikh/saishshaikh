@@ -3,12 +3,13 @@
   <img src="https://raw.githubusercontent.com/saishshaikh/saishshaikh/main/assets/black-bg.svg" width="100%" height="200%" style="position: absolute; top: 0; left: 0; z-index: -1; opacity: 1;" />
 </div>
 
+<!-- UPAR WALI WAVE - PURE PURPLE COLOUR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b19cd9&height=150&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- CONTENT KA BOX (PURPLE THEME) -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #b19cd9; display: inline-block; width: 95%; position: relative;">
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 2px solid #b19cd9; display: inline-block; width: 95%; position: relative; box-shadow: 0 0 15px rgba(177, 156, 217, 0.2);">
 
   <p align="center">
     <a href="https://www.linkedin.com/in/saishshaikh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,14 +25,22 @@
     <i style="color: #a855f7;">Code • Build • Break • Fix • Repeat</i>
   </p>
 
+  <!-- ACTIVITY GRAPH (PURPLE) -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=PURPLE-AMETHYST&bg_color=0d1117&hide_border=true&color=b19cd9&line=b19cd9&point=ffffff&area=true&area_color=b19cd9" width="100%"/>
   </p>
 
+  <!-- CONTRIBUTION CHART (PURPLE) -->
   <p align="center">
     <img src="https://ghchart.rshah.org/b19cd9/saishshaikh" width="90%" alt="GitHub Contributions Chart"/>
   </p>
 
+  <!-- YEARLY STATS (Add kiya gaya hai) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=saishshaikh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=b19cd9&icon_color=b19cd9&text_color=d8b4e2" width="75%" alt="GitHub Yearly Stats"/>
+  </p>
+
+  <!-- BADGES (PURPLE) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Total%20Contributions-382-b19cd9?style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Current%20Streak-0-b19cd9?style=for-the-badge&logoColor=white"/>
@@ -40,6 +49,7 @@
 
 </div>
 
+<!-- NICHE WALI WAVE - PURE PURPLE COLOUR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=none" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b19cd9&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
