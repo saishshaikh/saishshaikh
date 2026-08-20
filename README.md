@@ -24,13 +24,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=saishshaikh&theme=react-dark&bg_color=0d1117&hide_border=true&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=00BFFF" width="100%"/>
   </p>
 
-  <!-- BADGES (SKY BLUE) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Total%20Contributions-382-00BFFF?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Current%20Streak-0-00BFFF?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Longest%20Streak-0-00BFFF?style=for-the-badge&logoColor=white"/>
-  </p>
-
 </div>
 
 <div align="center">
